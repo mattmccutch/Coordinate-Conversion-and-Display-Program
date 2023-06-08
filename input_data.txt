@@ -1,0 +1,5 @@
+34.0522 N, 118.2437 W Los Angeles
+34.1 N, 118.2 W Los Angeles
+40.7128 N 74.0060 W New York
+51.5074 W, 0.1278 N Macapá
+41° 52.440' N, 87° 37.995' W Chicago
